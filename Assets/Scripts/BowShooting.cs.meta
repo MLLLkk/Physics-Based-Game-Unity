@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 62665b5bf4b806a47a7863f3dae9053a
+timeCreated: 1779623452
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - arrowPrefab: {instanceID: 0}
+  - shootPoint: {instanceID: 0}
+  - predictor: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - chargeSound: {instanceID: 0}
+  - shootSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
