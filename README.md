@@ -31,3 +31,23 @@ This project is a first-person physics-based game developed using the Unity plat
 
 Graduation Project – Bachelor of Computer Science
 Northern Border University – Faculty of Computing and Information Technology
+
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Level Selection
+![Level Selection](screenshots/level-select.png)
+
+### In-Game
+![In-Game](screenshots/in-game.png)
+
+### Pause Menu
+![Pause Menu](screenshots/pause-menu.png)
+
+### Lose Screen
+![Lose Screen](screenshots/lose-screen.png)
+
+### Win Screen
+![Win Screen](screenshots/win-screen.png)
